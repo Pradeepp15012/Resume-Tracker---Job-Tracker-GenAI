@@ -34,7 +34,7 @@ export const useAuth = () => {
       setLoading(false);
       
     }
-  }
+  } 
   
   const handleLogout = async () => {
     setLoading(true)
